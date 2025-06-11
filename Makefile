@@ -2,8 +2,8 @@
 VERSION = 5
 PATCHLEVEL = 10
 SUBLEVEL = 162
-EXTRAVERSION =
-NAME = Dare mighty things
+EXTRAVERSION = -codegen-perf-sound-boost
+NAME = Dare mighty things (Enhanced by Codegen)
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"

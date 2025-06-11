@@ -38,3 +38,4 @@ obj-$(CONFIG_CPU_ISOLATION) += isolation.o
 obj-$(CONFIG_PSI) += psi.o
 obj-$(CONFIG_SCHED_EMS) += ems/
 obj-$(CONFIG_SEC_MPAM) += sec_mpam.o sec_mpam_sysfs.o
+obj-y += sched_performance_boost.o
